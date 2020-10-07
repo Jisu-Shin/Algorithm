@@ -24,12 +24,13 @@ public class Main {
 		n = Integer.parseInt(st.nextToken());
 		int m = Integer.parseInt(st.nextToken());
 		int idx = Integer.parseInt(br.readLine());
-        
-        int[] answer = new int[n+1];
+
+		//배열로 하면 공간부족
 		arr = new ArrayList[n+1];
+		int[] answer = new int[n+1];
 		for(int i=1;i<=n;i++) {
 			arr[i]= new ArrayList<edge>();
-            answer[i]=Integer.MAX_VALUE;
+            			answer[i]=Integer.MAX_VALUE;
 		}
 		while(m-->0) {
 			st = new StringTokenizer(br.readLine());
@@ -46,7 +47,7 @@ public class Main {
 			edge e = q.poll();
 			int node = e.node;
 			int cost = e.cost;
-            if(answer[node]<cost) continue;
+            			if(answer[node]<cost) continue;
 			for(int i=0;i<arr[node].size();i++) {
 				int nextNode = arr[node].get(i).node;
 				int nextCost = arr[node].get(i).cost;

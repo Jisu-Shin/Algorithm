@@ -230,6 +230,7 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
 
 <details markdown="1">
 <summary> 2월 동안 푼 문제 </summary>
+
 #### 2월 첫째주 (2/1~6)
 
  * Swea_1289번 원재의 메모리 복구하기 : 이전 값이랑 비교하는게 키포인트 였다.. 간단하게 짤 수 있는데 어렵게 생각했다. **알고리즘 단순하게 생각하기** !! 그리고 **문제 꼼꼼히 읽기 !!** 문제를 제대로 이해하지 못한 것도 있다 ㅠㅠ
@@ -263,6 +264,17 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
 
  </details>
 
+
+
+
+### 4월 동안 푼 문제
+
+<details markdown="1">
+<summary> 4월 동안 푼 문제 </summary>
+
+#### 4월 첫째주 (3/1~6)
+
+ </details>
 
 
 

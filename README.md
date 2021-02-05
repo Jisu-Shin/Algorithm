@@ -10,7 +10,7 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
 
 
 
-## 2020년 7월-10월
+# 방학 :: 2020년 7월-10월
 
 <details markdown="1">
 <summary> 2020년 7월-10월 </summary>
@@ -83,7 +83,7 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
   * 9375번 패션왕 신해빈 : 비슷한걸 프로그래머스로 푼 기억이 있어서 쉽게 풀었다 쿄쿄
   * **2579번 계단 오르기** : dp도 n의 조건에 대해 달라질 수 있다는 걸 알았다 dp2,3,4 조건을 다르게 둬서 하는 법을 배웠다
 
-### 20-07-18 (Total:33)
+#### 20-07-18 (Total:33)
   * **1931번 회의실 배정** : 처음 접근 방식으로하면 ㅍ풀었으려나..Comparator 객체확인잘하자 ..o1...o2...이걸로 시간 다까먹었다
   * **7662번 이중 우선순위 큐** : TreeMap을 배울수 있었다 PriorityQueue로 해야하나 LinkedList로 해야하나 고민했는데 LinkedList는 시간이 오래걸린다 O(1)을 하기 위해 TreeMap 사용...! TreeMap은 key로 정렬을 한다
 
@@ -95,7 +95,7 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
   * 5525번 IOIOI : KMP 알고리즘 이해하기 너무 힘들다 이틀에 걸쳐서 이해완료했다
   * 1786번 찾기 : KMP 알고리즘 머릿속에 집어넣고 문제 푸니 풀만하다 ㅎㅎ 그리고 코드를 수정했는데 시간 4배감소 ;;
 
-### 20-07-21
+#### 20-07-21
   * 16916번 부분 문자열: KMP 알고리즘 그읏잡 오늘은 KMP 알고리즘 제대로 익혔다
   * 11724번 연결 요소의 개수: DFS로 풀었다 문제를 잘 이해하지못해서 바로통과를 할 수 없었다 정점도 요소로 칭하기 때문이다 그리고 이중 포문 보다 visited로 포문 하나만 만들어도 되는 것도 배웠다
 
@@ -103,7 +103,7 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
   * 1701번 Cubeditor: KMP알고리즘 어우 어려웠다 푸는데 1시간 반은 쓴듯하다 부분문자열이니까 나올 수 있는 문자열 전부를 돌려보는게 문제의 핵심이었다 채점이 느려서 틀렸습니다가 나올까봐 쫄았다...
   * 7576번 토마토 : bfs까지는 어차저차 짰는데 일수 세는 걸 짜는게 힘들었다 결국 찾아서 내 코드에 맞게 넣는데 정답 ㅠㅠ 감격스럽다
 
-### 20-07-23 (class 3 취득)
+#### 20-07-23 (class 3 취득)
   * 11726번 2×n 타일링: dp문제라 빨리 풀수 있었다 근데 long형으로 해줬어야했으며 %10007을 dp에다가 넣어줄 때 했어야 했다
   * 10026번 적록색약 : dfs 에 대해 조금씩 익숙해지고 있다 감이 잡힌다
 
@@ -139,6 +139,8 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
   * 1697번 숨바꼭질 : bfs로 풀어서 바로 풀었다 if문으로 등호만 제대로 줬다면 바로 통과인데 조금 아쉽다
   * **1389번 케빈 베이컨의 6단계 법칙** : 처음으로 플로이드 와샬 알고리즘으로 문제를 풀어보았다 왜 k>i>j 순은지 이해가 안되지만 공식이라 생각하고 문제를 많이 풀어봐야겠다
 </details>
+
+
 
 ### 8월 동안 푼 문제
 
@@ -218,7 +220,7 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
 
 
 
-## 2021년 2월-
+# ㅆrㅍl :: 2021년 2월 ~
 
 <details>
     <summary>2021년 2월</summary>
@@ -228,13 +230,28 @@ SW Expert Academy`https://swexpertacademy.com/main/code/problem/problemList.do?c
 
 <details markdown="1">
 <summary> 2월 동안 푼 문제 </summary>
- 
+#### 2월 첫째주 (2/1~6)
 
- * Swea_1289 : 
- * Boj_1244:
- * Boj_12478:
- 
+ * Swea_1289번 원재의 메모리 복구하기 : 이전 값이랑 비교하는게 키포인트 였다.. 간단하게 짤 수 있는데 어렵게 생각했다. 알고리즘 단순하게 생각하기 !! 그리고 문제 꼼꼼히 읽기 !! 문제를 제대로 이해하지 못한 것도 있다 ㅠㅠ
+ * Boj_1244 스위치 켜고 끄기 [Implementation]  : 재귀를 사용해서 푼 내용 , 백준에 제출하기 전에 이클립스에서 돌리고 콘솔에 잘 출력되는지 보자! 빨리 풀었지만 출력오류가 났던 ㅠㅠ
+ * Boj_17478 재귀함수가 뭔가요? [Unclassfied] : 문제는 빨리 풀었지만 테케를 제대로 보지 못하고 재귀 종료때 print문을 넣지 못해서 계속 오답 ㅠㅠ 테케도 꼼꼼히 보자...ㅎㅎ
+
  </details>
+
+
+
+### 3월 동안 푼 문제
+
+<details markdown="1">
+<summary> 3월 동안 푼 문제 </summary>
+
+#### 3월 첫째주 (3/1~6)
+
+ </details>
+
+
+
+
 
 </details>
 
